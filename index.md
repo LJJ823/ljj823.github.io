@@ -12,3 +12,4 @@
 
 ## 学习内容：信号与系统
 ### 信号与系统实践环节
+1. <a href="https://github.com/LJJ823/10-16/tree/master/%E5%A4%8D%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0.py">复指数函数</a>
